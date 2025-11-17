@@ -1485,102 +1485,6 @@
     },
     "done": true
   },
-  "vanillatweaks:spectator_night_vision": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:silence_mobs": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:unlock_all_recipes": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:larger_phantoms": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:nether_portal_coords": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
-  "vanillatweaks:graves": {
-    "criteria": {
-      "tick": "2023-09-01 22:14:24 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2023-09-01 22:14:29 -0400"
@@ -7185,5 +7089,11 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_the_recipe": "2024-05-21 13:04:40 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
 }
